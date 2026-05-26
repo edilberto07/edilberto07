@@ -64,8 +64,8 @@
 
 ---
 
-🌐 [Portfolio](https://yourportfolio.com) · 
+🌐 [Portfolio](https://kent-portfolio-liart.vercel.app/) · 
 💼 [LinkedIn](https://linkedin.com/in/yourprofile) · 
-📧 yourmail@gmail.com
+📧 kentedilbert.tasic1@gmail.com
 
 </div>
