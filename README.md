@@ -30,9 +30,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edilberto07&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=a855f7&border_color=21262d&hide_border=false&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edilberto07&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edilberto07&layout=compact&theme=tokyonight&title_color=00ffff&border_color=21262d&langs_count=8)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edilberto07&theme=tokyonight)  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edilberto07&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=edilberto07&theme=tokyonight&ring=00ffff&fire=a855f7&currStreakLabel=00ffff&border=21262d)
 
