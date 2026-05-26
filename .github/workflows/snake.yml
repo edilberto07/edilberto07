@@ -1,4 +1,3 @@
-# .github/workflows/snake.yml
 name: Generate Snake Animation
 
 on:
@@ -7,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ← THIS was missing — allows pushing to output branch
+  contents: write
 
 jobs:
   generate:
