@@ -30,8 +30,11 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=edilberto07&show_icons=true&theme=github_dark&title_color=00ffff&icon_color=a855f7&border_color=21262d" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilberto07&layout=compact&theme=github_dark&title_color=00ffff&border_color=21262d" height="160"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edilberto07&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=a855f7&border_color=21262d&hide_border=false&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edilberto07&layout=compact&theme=tokyonight&title_color=00ffff&border_color=21262d&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=edilberto07&theme=tokyonight&ring=00ffff&fire=a855f7&currStreakLabel=00ffff&border=21262d)
 
 ---
 
